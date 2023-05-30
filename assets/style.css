@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #252525 !important;
+}
+
+.wrap-in {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5rem 0 0 0;
+    color: #fff;
+    
+}
+
+.wrap-inner {
+    min-height: 70vh;
+    width: 80%;
+    background-color: #1d1d1d;
+
+}
+
+.bg-nav-dark {
+    background-color: #1d1d1d !important;
+}
